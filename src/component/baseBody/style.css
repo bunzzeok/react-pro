@@ -1,0 +1,6 @@
+.body-box {
+  height: calc(100vh - 64px);
+}
+.leaflet-card {
+  width: 30%;
+}

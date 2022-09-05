@@ -1,0 +1,43 @@
+.tw-h-vh-full {
+  height: calc(100vh - 64px);
+}
+.default-jost-font {
+  font-family: "Noto Sans KR";
+}
+.tw-pl-16dot {
+  padding-left: 16.66%;
+}
+.tw-h-full-50 {
+  max-height: calc(100% - 40px);
+  min-height: calc(100% - 40px);
+}
+.tw-w-94 {
+  width: 83%;
+}
+
+.tw-h-60-full {
+  min-height: calc(65% - 50px);
+}
+.tw-h-50per-10 {
+  width: calc(50% - 10px);
+}
+
+.tw-h-30-full {
+  min-height: calc(40% - 50px);
+}
+.leaflet-container {
+  height: 400px !important;
+  width: 400px !important;
+}
+
+.tw-mx-width-25 {
+  max-width: 25%;
+}
+
+.tw-modal-default {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
+}
